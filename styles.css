@@ -1,10 +1,5 @@
-.header-etch {
-    font-family: 'Special Gothic Expanded One', sans-serif;
-    font-size: xx-large;
-}
-
-.drawing-box {
-    border: 2px solid red;
-    width: 800px;
-    height: 800px;
+.drawing-section {
+    margin-top: 100px;
+    height: 600px;
+    width: 600px !important;
 }
