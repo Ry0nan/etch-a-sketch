@@ -1,5 +1,6 @@
-.drawing-section {
+.drawing-board {
     margin-top: 100px;
-    height: 600px;
-    width: 600px !important;
+    height: 500px;
+    width: 500px !important;
+    display: grid;
 }
